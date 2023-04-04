@@ -64,9 +64,9 @@ body {
 /* Sidebar/left column */
 .side {
   flex: 25%; /* otázka 8*/
-  background-color: darkblue; /* otázka 4 změnil jsem barvu pozadí na tmavě modrou a text na šedou */
+  background-color: darkblue; /* otázka 4 */
   padding: 20px;
-  color: grey;
+  color: grey; /* otázka 4 */
 }
 
 /* Main column */
@@ -78,7 +78,7 @@ body {
 
 /* Footer */
 .footer {
-  padding: 50px; /* otázka č.5 zvětšil jsem výšku patičky*/
+  padding: 50px; /* otázka 5*/
   background: #474747;
 }
 
@@ -86,7 +86,7 @@ body {
 .footer p {
   text-align: center;
   font-size: 14px;
-  color: green; /* otázka 3 změnil jsem barvu písma v patičce na zelenou */
+  color: green; /* otázka 3 */
 }
 
 /* Basic styles for the post */
